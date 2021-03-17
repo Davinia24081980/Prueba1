@@ -24,8 +24,8 @@ Y lo siguiente sería una lista:
 
 |Nombre|Tiempo|Edad|
 |:----|:----:|----:|
-|Noa:|Mayor|8|
-|Marcos:|Pequeño|2|
+|Prueba1:|Mayor|8|
+|Prueba2:|Pequeño|2|
 
 [Pulse aquí para ir a Google](www.google.es)
 
